@@ -1,0 +1,90 @@
+Testul #1:
+N = 1000, MAX = 10000
+Merge sort: 0.0050 secunde			Sortat corect: DA.
+Shell sort: 0.0970 secunde			Sortat corect: DA.
+Quick sort: 0.0030 secunde			Sortat corect: DA.
+Radix sort: 0.0020 secunde			Sortat corect: DA.
+Count sort: 0.0020 secunde			Sortat corect: DA.
+Timsort python: 0.0010 secunde			Sortat corect: DA.
+
+Testul #2:
+N = 1000, MAX = 10000000
+Merge sort: 0.0040 secunde			Sortat corect: DA.
+Shell sort: 0.0890 secunde			Sortat corect: DA.
+Quick sort: 0.0030 secunde			Sortat corect: DA.
+Radix sort: 0.0050 secunde			Sortat corect: DA.
+Count sort: 1.1870 secunde			Sortat corect: DA.
+Timsort python: 0.0000 secunde			Sortat corect: DA.
+
+Testul #3:
+N = 10000, MAX = 10000
+Merge sort: 0.0380 secunde			Sortat corect: DA.
+Shell sort: 0.1220 secunde			Sortat corect: DA.
+Quick sort: 0.0290 secunde			Sortat corect: DA.
+Radix sort: 0.0200 secunde			Sortat corect: DA.
+Count sort: 0.0020 secunde			Sortat corect: DA.
+Timsort python: 0.0010 secunde			Sortat corect: DA.
+
+Testul #4:
+N = 10000, MAX = 10000000
+Merge sort: 0.0510 secunde			Sortat corect: DA.
+Shell sort: 0.1190 secunde			Sortat corect: DA.
+Quick sort: 0.0330 secunde			Sortat corect: DA.
+Radix sort: 0.0280 secunde			Sortat corect: DA.
+Count sort: 1.1470 secunde			Sortat corect: DA.
+Timsort python: 0.0010 secunde			Sortat corect: DA.
+
+Testul #5:
+N = 100000, MAX = 10000
+Merge sort: 0.5610 secunde			Sortat corect: DA.
+Shell sort: 0.7510 secunde			Sortat corect: DA.
+Quick sort: 0.4250 secunde			Sortat corect: DA.
+Radix sort: 0.2730 secunde			Sortat corect: DA.
+Count sort: 0.0230 secunde			Sortat corect: DA.
+Timsort python: 0.0170 secunde			Sortat corect: DA.
+
+Testul #6:
+N = 100000, MAX = 10000000
+Merge sort: 0.4960 secunde			Sortat corect: DA.
+Shell sort: 0.8110 secunde			Sortat corect: DA.
+Quick sort: 0.4460 secunde			Sortat corect: DA.
+Radix sort: 0.5240 secunde			Sortat corect: DA.
+Count sort: 1.1730 secunde			Sortat corect: DA.
+Timsort python: 0.0160 secunde			Sortat corect: DA.
+
+Testul #7:
+N = 1000000, MAX = 10000
+Merge sort: 6.8018 secunde			Sortat corect: DA.
+Shell sort: 7.4038 secunde			Sortat corect: DA.
+Quick sort: 7.9407 secunde			Sortat corect: DA.
+Radix sort: 3.0969 secunde			Sortat corect: DA.
+Count sort: 0.1870 secunde			Sortat corect: DA.
+Timsort python: 0.2300 secunde			Sortat corect: DA.
+
+Testul #8:
+N = 1000000, MAX = 10000000
+Merge sort: 6.5748 secunde			Sortat corect: DA.
+Shell sort: 9.1137 secunde			Sortat corect: DA.
+Quick sort: 5.5998 secunde			Sortat corect: DA.
+Radix sort: 6.1538 secunde			Sortat corect: DA.
+Count sort: 1.8259 secunde			Sortat corect: DA.
+Timsort python: 0.3140 secunde			Sortat corect: DA.
+
+Testul #9:
+N = 10000000, MAX = 10000
+Merge sort: 81.6505 secunde			Sortat corect: DA.
+Shell sort: 101.0969 secunde			Sortat corect: DA.
+Quick sort: 408.8604 secunde			Sortat corect: DA.
+Radix sort: 32.7320 secunde			Sortat corect: DA.
+Count sort: 2.2319 secunde			Sortat corect: DA.
+Timsort python: 2.5069 secunde			Sortat corect: DA.
+
+Testul #10:
+N = 10000000, MAX = 10000000
+Merge sort: 80.9935 secunde			Sortat corect: DA.
+Shell sort: 131.8319 secunde			Sortat corect: DA.
+Quick sort: 64.3340 secunde			Sortat corect: DA.
+Radix sort: 50.0585 secunde			Sortat corect: DA.
+Count sort: 3.9569 secunde			Sortat corect: DA.
+Timsort python: 3.9409 secunde			Sortat corect: DA.
+
