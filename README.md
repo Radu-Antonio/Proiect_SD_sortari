@@ -1,1 +1,12 @@
 # Proiect SD sortari
+
+In acest proiect am implementat:
+- Merge Sort
+- Shell Sort
+- Quick Sort
+- Count Sort
+- Radix Sort
+
+Pentru N pana in 10^6 inclusiv, orice algoritm este bun.
+De la 10^7 se observa ca sortul din Python si Count sortul sunt cu mult mai rapide.
+Pentru Quick Sort se observa ca in general este cu putin mai rapid decat Merge Sortul, dar cand N este mare iar MAX este mic algoritmul degenereaza deoarece sunt multe valori duplicate.
