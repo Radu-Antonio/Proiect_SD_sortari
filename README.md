@@ -13,10 +13,10 @@ Pentru Quick Sort se observa ca in general este cu putin mai rapid decat Merge S
 -----------------------------------
 update pentru a rula codul:
 
-- daca nu aveti sistemul updatat: sudo apt update && sudo apt upgrade -y
+- daca nu aveti OS-ul updatat: sudo apt update && sudo apt upgrade -y
 -----------------------------------
 - sudo apt install software-properties-common -y
 - sudo add-apt-repository ppa:deadsnakes/ppa
 - sudo apt install python3.10
 -----------------------------------
-pentru exectuare: python3.10 test.py
+pentru executare: python3.10 test.py
