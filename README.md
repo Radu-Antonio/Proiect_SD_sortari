@@ -19,4 +19,4 @@ update pentru a rula codul:
 - sudo add-apt-repository ppa:deadsnakes/ppa
 - sudo apt install python3.10
 -----------------------------------
-pentru executare: python3.10 test.py
+pentru executare: python3.10 tema.py
